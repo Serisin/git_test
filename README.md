@@ -1,4 +1,4 @@
-#The Odin Project - Foundation Progress
+# The Odin Project - Foundation Progress
 
 ## Projects so far:
 - html-boilerplate (simple learning of HTML basics)
